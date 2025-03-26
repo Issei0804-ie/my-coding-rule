@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.0.1](https://github.com/Issei0804-ie/my-coding-rule/commits/v0.0.1) - 2025-03-26
+- Bump textlint from 14.4.2 to 14.5.0 by @dependabot in https://github.com/Issei0804-ie/my-coding-rule/pull/5
+
 ## [v0.1.9](https://github.com/k2tzumi/slidev-boilerplate/compare/v0.1.8...v0.1.9) - 2025-02-22
 - Bump playwright-chromium from 1.49.1 to 1.50.1 by @dependabot in https://github.com/k2tzumi/slidev-boilerplate/pull/64
 - Bump @iconify-json/material-symbols from 1.2.12 to 1.2.14 by @dependabot in https://github.com/k2tzumi/slidev-boilerplate/pull/67
